@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GEckett
+- 👋 Hi, I’m Grant
 - 👀 I’m interested in becoming a Software Engineer/Developer
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects that will enhance my coding skills
