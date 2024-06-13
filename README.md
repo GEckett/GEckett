@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Grant
 - 👀 I’m interested in becoming a Software Engineer/Developer
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working on CS50
 - 💞️ I’m looking to collaborate on projects that will enhance my coding skills
 
 <!---
